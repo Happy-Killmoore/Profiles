@@ -64,24 +64,6 @@
       },
       {
         "ClassName": "FOG_Bergen_Rucksack_Black",
-        "MaxPriceThreshold": 40000,
-        "MinPriceThreshold": 40000,
-        "SellPricePercent": 75,
-        "MaxStockThreshold": -1,
-        "MinStockThreshold": -1,
-        "QuantityPercent": -1,
-        "SpawnAttachments": [],
-        "Variants": [
-          "FOG_Vest_TacTec_OD",
-          "FOG_Vest_TacTec_RG",
-          "FOG_Vest_TacTec_CB",
-          "FOG_Vest_TacTec_Grey",
-          "FOG_Vest_TacTec_MC",
-          "FOG_Vest_TacTec_MCB"
-        ]
-      },
-      {
-        "ClassName": "FOG_Bergen_Rucksack_Black",
         "MaxPriceThreshold": 65000,
         "MinPriceThreshold": 65000,
         "SellPricePercent": 75,
@@ -170,49 +152,6 @@
           "FOG_Bag_Trizip_DCU",
           "FOG_Bag_Trizip_ERDL",
           "FOG_Bag_Trizip_MC"
-        ]
-      },
-      {
-        "ClassName": "BO_CamelBag",
-        "MaxPriceThreshold": 60000,
-        "MinPriceThreshold": 60000,
-        "SellPricePercent": 75,
-        "MaxStockThreshold": -1,
-        "MinStockThreshold": -1,
-        "QuantityPercent": -1,
-        "SpawnAttachments": [],
-        "Variants": [
-          "BO_CamelBag_Black",
-          "BO_CamelBag_Multicam",
-          "BO_CamelBag_Tan",
-          "BO_CamelBag_Woods"
-        ]
-      },
-      {
-        "ClassName": "BO_MarchingBag",
-        "MaxPriceThreshold": 40000,
-        "MinPriceThreshold": 40000,
-        "SellPricePercent": 75,
-        "MaxStockThreshold": -1,
-        "MinStockThreshold": -1,
-        "QuantityPercent": -1,
-        "SpawnAttachments": [],
-        "Variants": [
-          "BO_MarchingBag_Black"
-        ]
-      },
-      {
-        "ClassName": "BO_MilitaryBag",
-        "MaxPriceThreshold": 35000,
-        "MinPriceThreshold": 35000,
-        "SellPricePercent": 75,
-        "MaxStockThreshold": -1,
-        "MinStockThreshold": -1,
-        "QuantityPercent": -1,
-        "SpawnAttachments": [],
-        "Variants": [
-          "BO_MilitaryBag_Black",
-          "BO_MilitaryBag_Beige"
         ]
       }
     ]
