@@ -40,3 +40,23 @@
             "FOG_Belt_RTGFB_ALP",
         ]
       },
+        {
+        "ClassName": "FOG_MRB_Belt_Black",
+        "MaxPriceThreshold": 12000,
+        "MinPriceThreshold": 12000,
+        "SellPricePercent": 75,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": -1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "FOG_MRB_Belt_CB",
+            "FOG_MRB_Belt_MC",
+            "FOG_MRB_Belt_MCB",
+            "FOG_MRB_Belt_RG",
+            "FOG_MRB_Belt_AOR1",
+            "FOG_MRB_Belt_AOR2",
+            "FOG_MRB_Belt_ATACSAU",
+            "FOG_MRB_Belt_6CD",
+            "FOG_MRB_Belt_MCT",
+        ]
