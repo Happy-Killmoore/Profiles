@@ -9,7 +9,7 @@
     {
       "ClassName": "ext_ah1z",
       "MaxPriceThreshold": 2500000,
-      "MinPriceThreshold": 2000000,
+      "MinPriceThreshold": 2500000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -31,7 +31,7 @@
     {
       "ClassName": "ext_ah64d",
       "MaxPriceThreshold": 2500000,
-      "MinPriceThreshold": 2000000,
+      "MinPriceThreshold": 2500000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -51,7 +51,7 @@
     {
       "ClassName": "ext_aw159",
       "MaxPriceThreshold": 3000000,
-      "MinPriceThreshold": 2500000,
+      "MinPriceThreshold": 3000000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -75,7 +75,7 @@
     {
       "ClassName": "ext_ch_47f",
       "MaxPriceThreshold": 3750000,
-      "MinPriceThreshold": 3000000,
+      "MinPriceThreshold": 3750000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -95,7 +95,7 @@
     {
       "ClassName": "ext_ka52",
       "MaxPriceThreshold": 3200000,
-      "MinPriceThreshold": 3000000,
+      "MinPriceThreshold": 3200000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -121,7 +121,7 @@
     {
       "ClassName": "ext_ka60",
       "MaxPriceThreshold": 3000000,
-      "MinPriceThreshold": 2500000,
+      "MinPriceThreshold": 3000000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -146,7 +146,7 @@
     {
       "ClassName": "ext_merlinhc3",
       "MaxPriceThreshold": 3500000,
-      "MinPriceThreshold": 2750000,
+      "MinPriceThreshold": 3500000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -173,7 +173,7 @@
     {
       "ClassName": "ext_mh6",
       "MaxPriceThreshold": 3500000,
-      "MinPriceThreshold": 2000000,
+      "MinPriceThreshold": 3500000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -193,7 +193,7 @@
     {
       "ClassName": "ext_mi171",
       "MaxPriceThreshold": 3750000,
-      "MinPriceThreshold": 3000000,
+      "MinPriceThreshold": 3750000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -218,7 +218,7 @@
     {
       "ClassName": "ext_mi24",
       "MaxPriceThreshold": 3500000,
-      "MinPriceThreshold": 3000000,
+      "MinPriceThreshold": 3500000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -248,7 +248,7 @@
     {
       "ClassName": "ext_mi8",
       "MaxPriceThreshold": 3000000,
-      "MinPriceThreshold": 2500000,
+      "MinPriceThreshold": 3000000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -273,7 +273,7 @@
     {
       "ClassName": "ext_mi8_attack",
       "MaxPriceThreshold": 3000000,
-      "MinPriceThreshold": 2500000,
+      "MinPriceThreshold": 3000000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -297,7 +297,7 @@
     {
       "ClassName": "ext_uh1y",
       "MaxPriceThreshold": 2200000,
-      "MinPriceThreshold": 1600000,
+      "MinPriceThreshold": 2200000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -319,7 +319,7 @@
     {
       "ClassName": "ext_uh60m",
       "MaxPriceThreshold": 3000000,
-      "MinPriceThreshold": 2500000,
+      "MinPriceThreshold": 3000000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
