@@ -1,1 +1,18 @@
-
+{
+    "m_Version": 12,
+    "DisplayName": "Belts",
+    "Icon": "Soldier",
+    "Color": "E9151AFF",
+    "InitStockPercent": 75,
+    "IsExchange": 0,
+    "Items": [
+      {
+        "ClassName": "FOG_Bag_BlackJack_Black",
+        "MaxPriceThreshold": 65000,
+        "MinPriceThreshold": 65000,
+        "SellPricePercent": 75,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": -1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
