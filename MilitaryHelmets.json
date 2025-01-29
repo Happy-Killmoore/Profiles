@@ -11,8 +11,8 @@
       "MaxPriceThreshold": 20000,
       "MinPriceThreshold": 20000,
       "SellPricePercent": 75,
-      "MaxStockThreshold": -1,
-      "MinStockThreshold": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
@@ -31,8 +31,8 @@
       "MaxPriceThreshold": 35000,
       "MinPriceThreshold": 35000,
       "SellPricePercent": 75,
-      "MaxStockThreshold": -1,
-      "MinStockThreshold": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
@@ -47,8 +47,8 @@
       "MaxPriceThreshold": 45000,
       "MinPriceThreshold": 45000,
       "SellPricePercent": 75,
-      "MaxStockThreshold": -1,
-      "MinStockThreshold": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
@@ -70,8 +70,8 @@
       "MaxPriceThreshold": 45000,
       "MinPriceThreshold": 45000,
       "SellPricePercent": 75,
-      "MaxStockThreshold": -1,
-      "MinStockThreshold": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
@@ -94,8 +94,8 @@
       "MaxPriceThreshold": 65000,
       "MinPriceThreshold": 65000,
       "SellPricePercent": 75,
-      "MaxStockThreshold": -1,
-      "MinStockThreshold": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
@@ -116,8 +116,8 @@
       "MaxPriceThreshold": 65000,
       "MinPriceThreshold": 65000,
       "SellPricePercent": 75,
-      "MaxStockThreshold": -1,
-      "MinStockThreshold": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
@@ -131,8 +131,8 @@
       "MaxPriceThreshold": 65000,
       "MinPriceThreshold": 65000,
       "SellPricePercent": 75,
-      "MaxStockThreshold": -1,
-      "MinStockThreshold": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
@@ -140,6 +140,6 @@
         "FOG_Helmet_Exfil_MC",
         "FOG_Helmet_Exfil_RG"
       ]
-    },
+    }
   ]
 }
