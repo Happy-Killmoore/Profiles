@@ -86,8 +86,8 @@
         },
         {
             "ClassName": "Kamaz_TyphoonK_Green",
-            "MaxPriceThreshold": 100000,
-            "MinPriceThreshold": 100000,
+            "MaxPriceThreshold": 1500000,
+            "MinPriceThreshold": 1500000,
             "SellPricePercent": 75.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -164,8 +164,8 @@
         },
         {
             "ClassName": "MotorHome_Apo",
-            "MaxPriceThreshold": 100000,
-            "MinPriceThreshold": 100000,
+            "MaxPriceThreshold": 1000000,
+            "MinPriceThreshold": 1000000,
             "SellPricePercent": 75.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
