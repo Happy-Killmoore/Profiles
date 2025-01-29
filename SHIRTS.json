@@ -147,7 +147,7 @@
     {
       "ClassName": "FOG_Enhanced_PCU_Black",
       "MaxPriceThreshold": 3000,
-      "MinPriceThreshold": 300300000,
+      "MinPriceThreshold": 3000,
       "SellPricePercent": 75,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
