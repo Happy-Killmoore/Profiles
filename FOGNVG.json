@@ -1,0 +1,66 @@
+{
+  "m_Version": 12,
+    "DisplayName": "NVG",
+      "Icon": "Soldier",
+        "Color": "E9151AFF",
+          "InitStockPercent": 75,
+            "IsExchange": 0,
+              "Items": [
+                {
+                  "ClassName": "FOG_GPNVG_Black",
+                  "MaxPriceThreshold": 12000,
+                  "MinPriceThreshold": 12000,
+                  "SellPricePercent": 75,
+                  "MaxStockThreshold": 1,
+                  "MinStockThreshold": 1,
+                  "QuantityPercent": -1,
+                  "SpawnAttachments": [],
+                  "Variants": [
+                    "FOG_GPNVG_Tan",
+                    "FOG_GPNVG_RG",
+                    "FOG_GPNVG_Elite"
+                  ]
+                },
+                {
+                  "ClassName": "FOG_PVS31",
+                  "MaxPriceThreshold": 12000,
+                  "MinPriceThreshold": 12000,
+                  "SellPricePercent": 75,
+                  "MaxStockThreshold": 1,
+                  "MinStockThreshold": 1,
+                  "QuantityPercent": -1,
+                  "SpawnAttachments": [],
+                  "Variants": [
+                    "FOG_PVS31_Wrapped",
+                    "FOG_PVS31_FDE",
+                    "FOG_PVS31_FDE_Wrapped",
+                    "FOG_PVS31A_Black"
+                  ]
+                },
+                {
+                  "ClassName": "FOG_UAPNVG_Black",
+                  "MaxPriceThreshold": 12000,
+                  "MinPriceThreshold": 12000,
+                  "SellPricePercent": 75,
+                  "MaxStockThreshold": 1,
+                  "MinStockThreshold": 1,
+                  "QuantityPercent": -1,
+                  "SpawnAttachments": [],
+                  "Variants": [
+                    "FOG_UAPNVG_Tan",
+                    "FOG_UAPNVG_RG"
+                  ]
+                },
+                {
+                  "ClassName": "FOG_Tarsier",
+                  "MaxPriceThreshold": 12000,
+                  "MinPriceThreshold": 12000,
+                  "SellPricePercent": 75,
+                  "MaxStockThreshold": 1,
+                  "MinStockThreshold": 1,
+                  "QuantityPercent": -1,
+                  "SpawnAttachments": [],
+                  "Variants": []
+                }
+              ]
+}
