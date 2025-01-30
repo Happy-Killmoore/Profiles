@@ -1,1 +1,116 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Headgear",
+  "Icon": "Soldier",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "FOG_COMTAC3_Headset_CB",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 75,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_COMTAC3_Headset_RG"
+      ]
+    },
+    {
+      "ClassName": "FOG_M32_Headset_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 75,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_M32_Headset_RG"
+      ]
+    },
+    {
+      "ClassName": "FOG_Ronin_Hat_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 75,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Ronin_Hat"
+      ]
+    },
+    {
+      "ClassName": "FOG_Fleececap_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 75,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Fleececap_Grey",
+        "FOG_Fleececap_CB",
+        "FOG_Fleececap_RG",
+        "FOG_Fleececap_White"
+      ]
+    },
+    {
+      "ClassName": "FOG_Watchcap_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 75,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Watchcap_Grey",
+        "FOG_Watchcap_Red",
+        "FOG_Watchcap_CB",
+        "FOG_Watchcap_RG",
+        "FOG_Watchcap_Tan",
+        "FOG_Watchcap_White"
+      ]
+    },
+    {
+      "ClassName": "FOG_SoftCap_MC",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 75,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_Boonie_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 75,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Boonie_MC",
+        "FOG_Boonie_MCB",
+        "FOG_Boonie_AOR1",
+        "FOG_Boonie_AOR2",
+        "FOG_Boonie_M81",
+        "FOG_Boonie_Grey",
+        "FOG_Boonie_Khk",
+        "FOG_Boonie_RG",
+        "FOG_Boonie_CB"
+      ]
+    }
+  ]
+}
 
