@@ -8,8 +8,8 @@
               "Items": [
                 {
                   "ClassName": "FOG_Hooded_Cloak_Black",
-                  "MaxPriceThreshold": 12000,
-                  "MinPriceThreshold": 12000,
+                  "MaxPriceThreshold": 8000,
+                  "MinPriceThreshold": 8000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -43,8 +43,8 @@
                 },
                 {
                   "ClassName": "FOG_GhillieSuit_Tan",
-                  "MaxPriceThreshold": 12000,
-                  "MinPriceThreshold": 12000,
+                  "MaxPriceThreshold": 40000,
+                  "MinPriceThreshold": 400000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -68,8 +68,8 @@
                 },
                 {
                   "ClassName": "FOG_GhillieBushrag_GrassMulti",
-                  "MaxPriceThreshold": 12000,
-                  "MinPriceThreshold": 12000,
+                  "MaxPriceThreshold": 25000,
+                  "MinPriceThreshold": 25000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -91,8 +91,8 @@
                 },
                 {
                   "ClassName": "FOG_GhillieTop_GrassMulti",
-                  "MaxPriceThreshold": 12000,
-                  "MinPriceThreshold": 12000,
+                  "MaxPriceThreshold": 30000,
+                  "MinPriceThreshold": 30000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -114,8 +114,8 @@
                 },
                 {
                   "ClassName": "FOG_GhillieAtt_GrassMulti",
-                  "MaxPriceThreshold": 12000,
-                  "MinPriceThreshold": 12000,
+                  "MaxPriceThreshold": 20000,
+                  "MinPriceThreshold": 20000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
