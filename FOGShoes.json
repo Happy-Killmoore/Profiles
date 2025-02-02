@@ -8,8 +8,8 @@
               "Items": [
                 {
                   "ClassName": "FOG_DEFCONVans_Shoes_Black",
-                  "MaxPriceThreshold": 12000,
-                  "MinPriceThreshold": 12000,
+                  "MaxPriceThreshold": 800,
+                  "MinPriceThreshold": 800,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
                 },
                 {
                   "ClassName": "FOG_Combat_HikingBoots_Black",
-                  "MaxPriceThreshold": 12000,
-                  "MinPriceThreshold": 12000,
+                  "MaxPriceThreshold": 800,
+                  "MinPriceThreshold": 800,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -45,8 +45,8 @@
                 },
                 {
                   "ClassName": "FOG_Operator_Boots_Black",
-                  "MaxPriceThreshold": 12000,
-                  "MinPriceThreshold": 12000,
+                  "MaxPriceThreshold": 1200,
+                  "MinPriceThreshold": 1200,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -59,8 +59,8 @@
                 },
                 {
                   "ClassName": "FOG_Zypher_Boots_Black_Socks",
-                  "MaxPriceThreshold": 12000,
-                  "MinPriceThreshold": 12000,
+                  "MaxPriceThreshold": 1200,
+                  "MinPriceThreshold": 1200,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -78,8 +78,8 @@
                 },
                 {
                   "ClassName": "FOG_Lerch_Boots_Black",
-                  "MaxPriceThreshold": 12000,
-                  "MinPriceThreshold": 12000,
+                  "MaxPriceThreshold": 1200,
+                  "MinPriceThreshold": 1200,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
