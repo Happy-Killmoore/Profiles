@@ -8,8 +8,8 @@
               "Items": [
                 {
                   "ClassName": "FOG_TV110T_MagPouches_Black",
-                  "MaxPriceThreshold": 2500,
-                  "MinPriceThreshold": 2500,
+                  "MaxPriceThreshold": 5000,
+                  "MinPriceThreshold": 5000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -26,8 +26,8 @@
                 },
                 {
                   "ClassName": "FOG_Pouch_Mag_AVS_Black",
-                  "MaxPriceThreshold": 2500,
-                  "MinPriceThreshold": 2500,
+                  "MaxPriceThreshold": 5000,
+                  "MinPriceThreshold": 5000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -44,8 +44,8 @@
                 },
                 {
                   "ClassName": "FOG_Pouch_Mag_DW_Black",
-                  "MaxPriceThreshold": 2500,
-                  "MinPriceThreshold": 2500,
+                  "MaxPriceThreshold": 5000,
+                  "MinPriceThreshold": 5000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -67,8 +67,8 @@
                 },
                 {
                   "ClassName": "FOG_Pouch_Mag_Kangaroo_Black",
-                  "MaxPriceThreshold": 2500,
-                  "MinPriceThreshold": 2500,
+                  "MaxPriceThreshold": 5000,
+                  "MinPriceThreshold": 5000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
                 },
                 {
                   "ClassName": "FOG_Pouch_Mag_BlueFor_Black",
-                  "MaxPriceThreshold": 2500,
-                  "MinPriceThreshold": 2500,
+                  "MaxPriceThreshold": 5000,
+                  "MinPriceThreshold": 5000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -103,8 +103,8 @@
                 },
                 {
                   "ClassName": "FOG_Pouch_Mag_KTAR_Black",
-                  "MaxPriceThreshold": 2500,
-                  "MinPriceThreshold": 2500,
+                  "MaxPriceThreshold": 5000,
+                  "MinPriceThreshold": 5000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -126,8 +126,8 @@
                 },
                 {
                   "ClassName": "FOG_Pouch_Mag_TEAR_Black",
-                  "MaxPriceThreshold": 2500,
-                  "MinPriceThreshold": 2500,
+                  "MaxPriceThreshold": 5000,
+                  "MinPriceThreshold": 5000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -149,8 +149,8 @@
                 },
                 {
                   "ClassName": "FOG_Pouch_Mag_LV119_Black",
-                  "MaxPriceThreshold": 2500,
-                  "MinPriceThreshold": 2500,
+                  "MaxPriceThreshold": 5000,
+                  "MinPriceThreshold": 5000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -166,8 +166,8 @@
                 },
                 {
                   "ClassName": "FOG_Pouch_Mag_SSMK4_Black",
-                  "MaxPriceThreshold": 2500,
-                  "MinPriceThreshold": 2500,
+                  "MaxPriceThreshold": 5000,
+                  "MinPriceThreshold": 5000,
                   "SellPricePercent": 75,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
@@ -181,22 +181,6 @@
                     "FOG_Pouch_Mag_SSMK4_MCA",
                     "FOG_Pouch_Mag_SSMK4_MCT",
                     "FOG_Pouch_Mag_SSMK4_M81"
-                  ]
-                },
-                {
-                  "ClassName": "FOG_Vest_PhoneCase1_Black",
-                  "MaxPriceThreshold": 2500,
-                  "MinPriceThreshold": 2500,
-                  "SellPricePercent": 75,
-                  "MaxStockThreshold": 1,
-                  "MinStockThreshold": 1,
-                  "QuantityPercent": -1,
-                  "SpawnAttachments": [],
-                  "Variants": [
-                    "BO_CamelBag_Black",
-                    "BO_CamelBag_Multicam",
-                    "BO_CamelBag_Tan",
-                    "BO_CamelBag_Woods"
                   ]
                 },
                 {
