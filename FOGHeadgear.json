@@ -8,8 +8,8 @@
   "Items": [
     {
       "ClassName": "FOG_COMTAC3_Headset_CB",
-      "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
       "SellPricePercent": 75,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -21,8 +21,8 @@
     },
     {
       "ClassName": "FOG_M32_Headset_Black",
-      "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
       "SellPricePercent": 75,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -34,8 +34,8 @@
     },
     {
       "ClassName": "FOG_Ronin_Hat_Black",
-      "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
       "SellPricePercent": 75,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -47,8 +47,8 @@
     },
     {
       "ClassName": "FOG_Fleececap_Black",
-      "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
       "SellPricePercent": 75,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
     },
     {
       "ClassName": "FOG_Watchcap_Black",
-      "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
       "SellPricePercent": 75,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -81,8 +81,8 @@
     },
     {
       "ClassName": "FOG_SoftCap_MC",
-      "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
       "SellPricePercent": 75,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -92,8 +92,8 @@
     },
     {
       "ClassName": "FOG_Boonie_Black",
-      "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
       "SellPricePercent": 75,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
